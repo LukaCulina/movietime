@@ -4,6 +4,9 @@ import Pagination from '@mui/material/Pagination';
 const darkTheme=createTheme({
     palette:{
         mode:"dark",
+        primary:{
+            main: "#fff",
+        },
     },  
 })
 
