@@ -53,7 +53,7 @@ useEffect(()=>{
 
   return (
     <AliceCarousel 
-      autoPlay 
+      autoPlayInterval
       responsive={responsive} 
       infinite
       disableDotsControls
