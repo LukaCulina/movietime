@@ -1,0 +1,7 @@
+.bottomnav {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(114, 113, 128) !important;
+    z-index: 100;
+}
