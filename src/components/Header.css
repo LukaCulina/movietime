@@ -3,7 +3,7 @@
     position: fixed;
     display: flex;
     justify-content: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     padding-bottom: 15px;
     z-index: 100;
     font-size: 5vw;
